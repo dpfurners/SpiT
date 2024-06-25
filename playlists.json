@@ -1,0 +1,1902 @@
+{
+    "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae/playlists?offset=0&limit=50",
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae/playlists?offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 56,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4FCspsDcVmzjUHsWphN4KL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4FCspsDcVmzjUHsWphN4KL",
+            "id": "4FCspsDcVmzjUHsWphN4KL",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847a46dafa80d92c239c08cddb",
+                    "width": null
+                }
+            ],
+            "name": "Vibe",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAANeZoZYRk/NabWMhngefiy+YN4jTR",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4FCspsDcVmzjUHsWphN4KL/tracks",
+                "total": 47
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4FCspsDcVmzjUHsWphN4KL"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6QZfxJsMmvyfieXy29jrJ5"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6QZfxJsMmvyfieXy29jrJ5",
+            "id": "6QZfxJsMmvyfieXy29jrJ5",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845fbef55cbe1767b1d1610ca3",
+                    "width": null
+                }
+            ],
+            "name": "Meinz",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAIsf8ZKUvsL7NPhFMNR4JOGrqAe30",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6QZfxJsMmvyfieXy29jrJ5/tracks",
+                "total": 14
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6QZfxJsMmvyfieXy29jrJ5"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2XyToW9tfFJvHUO9C51uvz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2XyToW9tfFJvHUO9C51uvz",
+            "id": "2XyToW9tfFJvHUO9C51uvz",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a89dc48a070225aefcc4bc4e",
+                    "width": null
+                }
+            ],
+            "name": "Dancing Queen",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAZG2o6Xae127D5AnCtVVYVAb7ilJ5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2XyToW9tfFJvHUO9C51uvz/tracks",
+                "total": 90
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2XyToW9tfFJvHUO9C51uvz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/17mtFTRRMUx13L6L5Th8Tp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/17mtFTRRMUx13L6L5Th8Tp",
+            "id": "17mtFTRRMUx13L6L5Th8Tp",
+            "images": null,
+            "name": "!Pop",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA6U8sC1slLl922Q6w9PPv+Gi1R2Z",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/17mtFTRRMUx13L6L5Th8Tp/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:17mtFTRRMUx13L6L5Th8Tp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3GnDKftTYyEwoR3bhEVVuS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3GnDKftTYyEwoR3bhEVVuS",
+            "id": "3GnDKftTYyEwoR3bhEVVuS",
+            "images": null,
+            "name": "!House",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA5C8IopzsUrCY+hKKjI9PX+Kr3z7",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3GnDKftTYyEwoR3bhEVVuS/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3GnDKftTYyEwoR3bhEVVuS"
+        },
+        {
+            "collaborative": false,
+            "description": "\u0422he best football music - best football playlist - best football anthems - euros 2024 - european championship 2024 - euro cup 2024 ",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2DUuRUBdKxgUmYczGN28XF"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2DUuRUBdKxgUmYczGN28XF",
+            "id": "2DUuRUBdKxgUmYczGN28XF",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847907119f6340a246dcfff6af",
+                    "width": null
+                }
+            ],
+            "name": "Best Football Songs \ud83c\udfc6 EURO 2024",
+            "owner": {
+                "display_name": "Football Fan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/9ssalnd70lkbzq4fz1kml0gmy"
+                },
+                "href": "https://api.spotify.com/v1/users/9ssalnd70lkbzq4fz1kml0gmy",
+                "id": "9ssalnd70lkbzq4fz1kml0gmy",
+                "type": "user",
+                "uri": "spotify:user:9ssalnd70lkbzq4fz1kml0gmy"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAMef3wLUZGz3nIguUB6AjXYFduXcaF",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2DUuRUBdKxgUmYczGN28XF/tracks",
+                "total": 133
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2DUuRUBdKxgUmYczGN28XF"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1f7FdluftB6scihHNwoYIk"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1f7FdluftB6scihHNwoYIk",
+            "id": "1f7FdluftB6scihHNwoYIk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020734a542533bd6cebcaa41f3ab67616d00001e021f8d2ccc096701b0ce823502ab67616d00001e024164b88c51855af5f8e751e7ab67616d00001e02bd3c57fe8400301d89a9ff98",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020734a542533bd6cebcaa41f3ab67616d00001e021f8d2ccc096701b0ce823502ab67616d00001e024164b88c51855af5f8e751e7ab67616d00001e02bd3c57fe8400301d89a9ff98",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020734a542533bd6cebcaa41f3ab67616d00001e021f8d2ccc096701b0ce823502ab67616d00001e024164b88c51855af5f8e751e7ab67616d00001e02bd3c57fe8400301d89a9ff98",
+                    "width": 60
+                }
+            ],
+            "name": "Langsamer Walzer",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAACKO4htN440KFPaasqAbFjUM8v7VB",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1f7FdluftB6scihHNwoYIk/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1f7FdluftB6scihHNwoYIk"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5YOa4iPnYf1Rrb6wNjTLVT"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5YOa4iPnYf1Rrb6wNjTLVT",
+            "id": "5YOa4iPnYf1Rrb6wNjTLVT",
+            "images": null,
+            "name": "Tango",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAghVWsPfK/ckH9Tf3wsb644IZ77j",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5YOa4iPnYf1Rrb6wNjTLVT/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5YOa4iPnYf1Rrb6wNjTLVT"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/73CD3ACpvTjtkzxCfxy822"
+            },
+            "href": "https://api.spotify.com/v1/playlists/73CD3ACpvTjtkzxCfxy822",
+            "id": "73CD3ACpvTjtkzxCfxy822",
+            "images": null,
+            "name": "Wiener",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAlUnqVwTbpQspkgPc2m5mlpg/wPB",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/73CD3ACpvTjtkzxCfxy822/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:73CD3ACpvTjtkzxCfxy822"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0CCwDqP9mcwIM6L6V71tgH"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0CCwDqP9mcwIM6L6V71tgH",
+            "id": "0CCwDqP9mcwIM6L6V71tgH",
+            "images": null,
+            "name": "SlowFox",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA/mP26Fvoe/hwhBqMcnbGiVQ0YnB",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0CCwDqP9mcwIM6L6V71tgH/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0CCwDqP9mcwIM6L6V71tgH"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5ADkTG6XGRB6Ln2nr9fegr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5ADkTG6XGRB6Ln2nr9fegr",
+            "id": "5ADkTG6XGRB6Ln2nr9fegr",
+            "images": null,
+            "name": "Quickstep",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAjvsMjKDn3zT6vnupxxIRVKJ+SvW",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5ADkTG6XGRB6Ln2nr9fegr/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5ADkTG6XGRB6Ln2nr9fegr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/074gkweM056D1xOJXIq4pZ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/074gkweM056D1xOJXIq4pZ",
+            "id": "074gkweM056D1xOJXIq4pZ",
+            "images": null,
+            "name": "Salsa",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAArF/TJt6I8RVfxq742GuAopDUxvG",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/074gkweM056D1xOJXIq4pZ/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:074gkweM056D1xOJXIq4pZ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4WEJSTvYtfFkMtIjJBpVEc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4WEJSTvYtfFkMtIjJBpVEc",
+            "id": "4WEJSTvYtfFkMtIjJBpVEc",
+            "images": null,
+            "name": "Bachata",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAivqOw2GANYf59Dk7vRNu0OrBCOy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4WEJSTvYtfFkMtIjJBpVEc/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4WEJSTvYtfFkMtIjJBpVEc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1cBSJKvwE7TMRecoBziXXS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1cBSJKvwE7TMRecoBziXXS",
+            "id": "1cBSJKvwE7TMRecoBziXXS",
+            "images": null,
+            "name": "Paso Doble",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAo0SftRrGLk3+LeMHJTTbD8MDWO2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1cBSJKvwE7TMRecoBziXXS/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1cBSJKvwE7TMRecoBziXXS"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/45dcSJPThBlJduYcBzyxNO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/45dcSJPThBlJduYcBzyxNO",
+            "id": "45dcSJPThBlJduYcBzyxNO",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028a31195a371b2233456f6c07",
+                    "width": null
+                }
+            ],
+            "name": "Samba",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA66AcaS3u7pAwI0ZMcGp4xOasagh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/45dcSJPThBlJduYcBzyxNO/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:45dcSJPThBlJduYcBzyxNO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5ZG5g2czhOHHDlmvaulvQr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5ZG5g2czhOHHDlmvaulvQr",
+            "id": "5ZG5g2czhOHHDlmvaulvQr",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02442b53773d50e1b5369bb16c",
+                    "width": null
+                }
+            ],
+            "name": "ChaCha",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA8raNrgRpVj3Wu/RvHr9YPH9wbSl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5ZG5g2czhOHHDlmvaulvQr/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5ZG5g2czhOHHDlmvaulvQr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5SY0ZqhLbPUXSreRWag07j"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5SY0ZqhLbPUXSreRWag07j",
+            "id": "5SY0ZqhLbPUXSreRWag07j",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02495ce6da9aeb159e94eaa453",
+                    "width": null
+                }
+            ],
+            "name": "Rumba",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABFFwWHoMQ4i2WO2LECDA7L6H/F+E",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5SY0ZqhLbPUXSreRWag07j/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5SY0ZqhLbPUXSreRWag07j"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1oeASS4am4DnfwDsJlnCLG"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1oeASS4am4DnfwDsJlnCLG",
+            "id": "1oeASS4am4DnfwDsJlnCLG",
+            "images": null,
+            "name": "Jive",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAibTIPQ3RnXPiqK3+hzL8lZL6hz/",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1oeASS4am4DnfwDsJlnCLG/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1oeASS4am4DnfwDsJlnCLG"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6CHgIOtQLI3x09xUDVwMVf"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6CHgIOtQLI3x09xUDVwMVf",
+            "id": "6CHgIOtQLI3x09xUDVwMVf",
+            "images": null,
+            "name": "Anderes",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAihLDaZ8dka17afA78TzMfnfjI4G",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6CHgIOtQLI3x09xUDVwMVf/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6CHgIOtQLI3x09xUDVwMVf"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5QE1FeGnFIlZP6vZFiTOth"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5QE1FeGnFIlZP6vZFiTOth",
+            "id": "5QE1FeGnFIlZP6vZFiTOth",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8",
+                    "width": null
+                }
+            ],
+            "name": "Chill&Love",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAj/VFTHJ27USMRv/Fnu6L2RAXvE/",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5QE1FeGnFIlZP6vZFiTOth/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5QE1FeGnFIlZP6vZFiTOth"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2UbXcSPFlBMu7zBEdaRjOg"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2UbXcSPFlBMu7zBEdaRjOg",
+            "id": "2UbXcSPFlBMu7zBEdaRjOg",
+            "images": null,
+            "name": "R&B",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAApP3MgKWRQ//zBMmNWfwNxx1M/1M",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2UbXcSPFlBMu7zBEdaRjOg/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2UbXcSPFlBMu7zBEdaRjOg"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3YIPmbeZIZ4NZoiBuFJHhB"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3YIPmbeZIZ4NZoiBuFJHhB",
+            "id": "3YIPmbeZIZ4NZoiBuFJHhB",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029519b1a9e2b552407e65b01a",
+                    "width": null
+                }
+            ],
+            "name": "Vibe",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABWRdLYBLdkpMjYXalK5ShL1Y9P2+",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3YIPmbeZIZ4NZoiBuFJHhB/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3YIPmbeZIZ4NZoiBuFJHhB"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5viG5wmHFD5e9aljHBvCE5"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5viG5wmHFD5e9aljHBvCE5",
+            "id": "5viG5wmHFD5e9aljHBvCE5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02837fc606369328e68da7cf1dab67616d00001e0285fcbe37187888eb13dbd0eaab67616d00001e0287fdfa318d7f580116a6f238ab67616d00001e02c382591cc811c82caf497f13",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02837fc606369328e68da7cf1dab67616d00001e0285fcbe37187888eb13dbd0eaab67616d00001e0287fdfa318d7f580116a6f238ab67616d00001e02c382591cc811c82caf497f13",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02837fc606369328e68da7cf1dab67616d00001e0285fcbe37187888eb13dbd0eaab67616d00001e0287fdfa318d7f580116a6f238ab67616d00001e02c382591cc811c82caf497f13",
+                    "width": 60
+                }
+            ],
+            "name": "Tech",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADzaZWwCVtfStIlO3o9kdVWiRbahq",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5viG5wmHFD5e9aljHBvCE5/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5viG5wmHFD5e9aljHBvCE5"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/72RosKXcs3StMlmSNaYRvq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/72RosKXcs3StMlmSNaYRvq",
+            "id": "72RosKXcs3StMlmSNaYRvq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02063c048e9ef6bd021b744756ab67616d00001e021e340d1480e7bb29a45e3bd7ab67616d00001e02871d85943145dde548f4ae09ab67616d00001e02dcef905cb144d4867119850b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02063c048e9ef6bd021b744756ab67616d00001e021e340d1480e7bb29a45e3bd7ab67616d00001e02871d85943145dde548f4ae09ab67616d00001e02dcef905cb144d4867119850b",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02063c048e9ef6bd021b744756ab67616d00001e021e340d1480e7bb29a45e3bd7ab67616d00001e02871d85943145dde548f4ae09ab67616d00001e02dcef905cb144d4867119850b",
+                    "width": 60
+                }
+            ],
+            "name": "Pop",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAALsIIxbUqEKByZY/qMdx+WJwyuIdc",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/72RosKXcs3StMlmSNaYRvq/tracks",
+                "total": 44
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:72RosKXcs3StMlmSNaYRvq"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7lvXc3Lv4MKgs2OoNRWtae"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7lvXc3Lv4MKgs2OoNRWtae",
+            "id": "7lvXc3Lv4MKgs2OoNRWtae",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020f917f3479baec400dcb5a67ab67616d00001e023c9047f9aa5d0d1e03827039ab67616d00001e028c0f6b08992ba060f317bcfcab67616d00001e02cc76e11e73c0dfc6727dbae9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020f917f3479baec400dcb5a67ab67616d00001e023c9047f9aa5d0d1e03827039ab67616d00001e028c0f6b08992ba060f317bcfcab67616d00001e02cc76e11e73c0dfc6727dbae9",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020f917f3479baec400dcb5a67ab67616d00001e023c9047f9aa5d0d1e03827039ab67616d00001e028c0f6b08992ba060f317bcfcab67616d00001e02cc76e11e73c0dfc6727dbae9",
+                    "width": 60
+                }
+            ],
+            "name": "House",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADUow+XQ2Tdws2G3725K+0LHsYvRz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7lvXc3Lv4MKgs2OoNRWtae/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7lvXc3Lv4MKgs2OoNRWtae"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5KqOamNt0yfb9PyfGgTNUm"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5KqOamNt0yfb9PyfGgTNUm",
+            "id": "5KqOamNt0yfb9PyfGgTNUm",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02322b086aec3e63cc7caf30c6",
+                    "width": null
+                }
+            ],
+            "name": "HipHop",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA+i77O0gZHEu8o/6UL2mPWOJnF5L",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5KqOamNt0yfb9PyfGgTNUm/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5KqOamNt0yfb9PyfGgTNUm"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4Do9dewWzIXEme9zGRWLw0"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4Do9dewWzIXEme9zGRWLw0",
+            "id": "4Do9dewWzIXEme9zGRWLw0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020500a6a79bd0fd15046ae0c1ab67616d00001e029061a4e47413aff8f58a3c9cab67616d00001e02d39aa0059b96d0d43b1f1c5fab67616d00001e02da0fce7d84eabfcc21098b78",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020500a6a79bd0fd15046ae0c1ab67616d00001e029061a4e47413aff8f58a3c9cab67616d00001e02d39aa0059b96d0d43b1f1c5fab67616d00001e02da0fce7d84eabfcc21098b78",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020500a6a79bd0fd15046ae0c1ab67616d00001e029061a4e47413aff8f58a3c9cab67616d00001e02d39aa0059b96d0d43b1f1c5fab67616d00001e02da0fce7d84eabfcc21098b78",
+                    "width": 60
+                }
+            ],
+            "name": "pop",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAITvTT1bVsbzW+qaMl/y6EWTp3Df8",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4Do9dewWzIXEme9zGRWLw0/tracks",
+                "total": 28
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4Do9dewWzIXEme9zGRWLw0"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4cXK9xi8qNxjqzA2uogfSz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4cXK9xi8qNxjqzA2uogfSz",
+            "id": "4cXK9xi8qNxjqzA2uogfSz",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0202dcda501d5a6e29e326f95c",
+                    "width": null
+                }
+            ],
+            "name": "rap",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABPVbDc+CNYfPLadco+C+MAHQu5Ch",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4cXK9xi8qNxjqzA2uogfSz/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4cXK9xi8qNxjqzA2uogfSz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/53I63b79nNB4JvJJOXU9sc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/53I63b79nNB4JvJJOXU9sc",
+            "id": "53I63b79nNB4JvJJOXU9sc",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e419ccba0baa8bd3f3d7abf2",
+                    "width": null
+                }
+            ],
+            "name": "Download",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABLQ2zfPBUSH+4+n/W+0uHrkWUovL",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/53I63b79nNB4JvJJOXU9sc/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:53I63b79nNB4JvJJOXU9sc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/07awVwc6EgCBHXRgGKpvds"
+            },
+            "href": "https://api.spotify.com/v1/playlists/07awVwc6EgCBHXRgGKpvds",
+            "id": "07awVwc6EgCBHXRgGKpvds",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023339cc5ec85884a26e6ab9af",
+                    "width": null
+                }
+            ],
+            "name": "hipHop",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAACYGrO9SzEobfBAowXiHw3jTUq1QS",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/07awVwc6EgCBHXRgGKpvds/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:07awVwc6EgCBHXRgGKpvds"
+        },
+        {
+            "collaborative": false,
+            "description": "Upgrade your next EDM party! | Electronic Dance Charts, Techno, EDM Remixed, EDM Festival Songs, Future House, EDM Remixed 80s, 90s, 2000s, 2010s, Shuffle, Bass Boosted, Dance Music 2024",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6FjUyONoZCmdvKPfeWEohP"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6FjUyONoZCmdvKPfeWEohP",
+            "id": "6FjUyONoZCmdvKPfeWEohP",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846dea40d780a0bf1b413aeace",
+                    "width": null
+                }
+            ],
+            "name": "EDM PARTY 2024 \ud83c\udf89 EDM Dance Hits, Techno Party, EDM Main Stage, EDM Remix",
+            "owner": {
+                "display_name": "Juicy Fresh Music",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/jannisrunge"
+                },
+                "href": "https://api.spotify.com/v1/users/jannisrunge",
+                "id": "jannisrunge",
+                "type": "user",
+                "uri": "spotify:user:jannisrunge"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AABSVpBrTxzuTlorjNirNnWxq17hCv30",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6FjUyONoZCmdvKPfeWEohP/tracks",
+                "total": 131
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6FjUyONoZCmdvKPfeWEohP"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/04RV4D8MsWVpdrFwhIzO0r"
+            },
+            "href": "https://api.spotify.com/v1/playlists/04RV4D8MsWVpdrFwhIzO0r",
+            "id": "04RV4D8MsWVpdrFwhIzO0r",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021b39487cf698508cbce6a5e7ab67616d00001e0223655d16e38cf7378dbcbb03ab67616d00001e022e92c9d7c00602608318dca8ab67616d00001e024cb3ff3321effeb7860d4b2a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021b39487cf698508cbce6a5e7ab67616d00001e0223655d16e38cf7378dbcbb03ab67616d00001e022e92c9d7c00602608318dca8ab67616d00001e024cb3ff3321effeb7860d4b2a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021b39487cf698508cbce6a5e7ab67616d00001e0223655d16e38cf7378dbcbb03ab67616d00001e022e92c9d7c00602608318dca8ab67616d00001e024cb3ff3321effeb7860d4b2a",
+                    "width": 60
+                }
+            ],
+            "name": "chill",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADl+lUfESSB3cWFKmV6fZPu3CrFb8",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/04RV4D8MsWVpdrFwhIzO0r/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:04RV4D8MsWVpdrFwhIzO0r"
+        },
+        {
+            "collaborative": false,
+            "description": "EDM MIX 2024 \ud83d\udd25 EDM HITS \ud83d\udd25 EDM SONGS | BEST SONGS OF EDM | POPULAR ELECTRONIC DANCE MUSIC | TOMORROWLAND SONGS | BEST MUSIC OF EDM | MARSHMELLO | ALOK | DAVID GUETTA | KYGO | HOUSE | TECHNO | DANCE | EDM BANGERS | TOMORROWLAND BEST MUSIC | BEST TECHNO MUSIC | HOUSE MUSIC | PARTY MUSIC | PARTY HITS",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5PCv6afEatU3z9cq2fBPDs"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5PCv6afEatU3z9cq2fBPDs",
+            "id": "5PCv6afEatU3z9cq2fBPDs",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844b6f1a8a823fc453f1e5adfe",
+                    "width": null
+                }
+            ],
+            "name": "EDM MIX 2024 \ud83d\udd25 EDM HITS \ud83d\udd25TOMORROWLAND 2024",
+            "owner": {
+                "display_name": "hotamazingnetwork",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hotamazingnetwork"
+                },
+                "href": "https://api.spotify.com/v1/users/hotamazingnetwork",
+                "id": "hotamazingnetwork",
+                "type": "user",
+                "uri": "spotify:user:hotamazingnetwork"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAGQrjwD9nslRy9bFculXbc/ASkMf/J",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5PCv6afEatU3z9cq2fBPDs/tracks",
+                "total": 118
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5PCv6afEatU3z9cq2fBPDs"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4XMRXDD1rc1Pb7eoD7RXj0"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4XMRXDD1rc1Pb7eoD7RXj0",
+            "id": "4XMRXDD1rc1Pb7eoD7RXj0",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e629cab6558cb496b60e2178",
+                    "width": null
+                }
+            ],
+            "name": "DnB",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABN717wCoMujpYGJQwnz4hTZ+jiF1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4XMRXDD1rc1Pb7eoD7RXj0/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4XMRXDD1rc1Pb7eoD7RXj0"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Bachata songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/21XAmn7BgqChebyFrcDU4h"
+            },
+            "href": "https://api.spotify.com/v1/playlists/21XAmn7BgqChebyFrcDU4h",
+            "id": "21XAmn7BgqChebyFrcDU4h",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021d6d3d544ca5b46453fafbb6ab67616d00001e02552ae7f465c58a22f295fe5bab67616d00001e02906e8cc991ca530870b6a66aab67616d00001e02a484690118ec2c7a2e2ae124",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021d6d3d544ca5b46453fafbb6ab67616d00001e02552ae7f465c58a22f295fe5bab67616d00001e02906e8cc991ca530870b6a66aab67616d00001e02a484690118ec2c7a2e2ae124",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021d6d3d544ca5b46453fafbb6ab67616d00001e02552ae7f465c58a22f295fe5bab67616d00001e02906e8cc991ca530870b6a66aab67616d00001e02a484690118ec2c7a2e2ae124",
+                    "width": 60
+                }
+            ],
+            "name": "Bachata",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADlh71PLAA/sjl63eavDi72DJsOUd",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/21XAmn7BgqChebyFrcDU4h/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:21XAmn7BgqChebyFrcDU4h"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Jive songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0d2Ha2epE2RsoXRoVUYeVS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0d2Ha2epE2RsoXRoVUYeVS",
+            "id": "0d2Ha2epE2RsoXRoVUYeVS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02a2fc41b0dd6ce4f0d16a4c46ab67616d00001e02d74f4550a6e409bf51652db7ab67616d00001e02eb11e2abccdca41f39ad3b89ab67616d00001e02f60070dce96a2c1b70cf6ff0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02a2fc41b0dd6ce4f0d16a4c46ab67616d00001e02d74f4550a6e409bf51652db7ab67616d00001e02eb11e2abccdca41f39ad3b89ab67616d00001e02f60070dce96a2c1b70cf6ff0",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02a2fc41b0dd6ce4f0d16a4c46ab67616d00001e02d74f4550a6e409bf51652db7ab67616d00001e02eb11e2abccdca41f39ad3b89ab67616d00001e02f60070dce96a2c1b70cf6ff0",
+                    "width": 60
+                }
+            ],
+            "name": "Jive",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAEAAABrgKffayNsETsCQ3U6ovDaVT",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0d2Ha2epE2RsoXRoVUYeVS/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0d2Ha2epE2RsoXRoVUYeVS"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Tango (Ballroom) songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3MOtmmG9GClDNIpe4f0bha"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3MOtmmG9GClDNIpe4f0bha",
+            "id": "3MOtmmG9GClDNIpe4f0bha",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e026df55bf401a176b587a93800ab67616d00001e02a093a2cda20fae1e0242ffa5ab67616d00001e02a156c4368f82ec161d155a0bab67616d00001e02f7f90fa073b6418018600bfc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e026df55bf401a176b587a93800ab67616d00001e02a093a2cda20fae1e0242ffa5ab67616d00001e02a156c4368f82ec161d155a0bab67616d00001e02f7f90fa073b6418018600bfc",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e026df55bf401a176b587a93800ab67616d00001e02a093a2cda20fae1e0242ffa5ab67616d00001e02a156c4368f82ec161d155a0bab67616d00001e02f7f90fa073b6418018600bfc",
+                    "width": 60
+                }
+            ],
+            "name": "Tango (Ballroom)",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADxZbQZZyaL0OSSgHbWokS9lPDaWP",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3MOtmmG9GClDNIpe4f0bha/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3MOtmmG9GClDNIpe4f0bha"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Viennese Waltz songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/49p9dNmW0dQxL6AuVnbcOO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/49p9dNmW0dQxL6AuVnbcOO",
+            "id": "49p9dNmW0dQxL6AuVnbcOO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0203dadde4d9d305c1c3e0d91cab67616d00001e022ccb7e51f56476de2e20d1aeab67616d00001e0233d4866ed921300e8ef50808ab67616d00001e029cc0c56419ef681b78d8977e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0203dadde4d9d305c1c3e0d91cab67616d00001e022ccb7e51f56476de2e20d1aeab67616d00001e0233d4866ed921300e8ef50808ab67616d00001e029cc0c56419ef681b78d8977e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0203dadde4d9d305c1c3e0d91cab67616d00001e022ccb7e51f56476de2e20d1aeab67616d00001e0233d4866ed921300e8ef50808ab67616d00001e029cc0c56419ef681b78d8977e",
+                    "width": 60
+                }
+            ],
+            "name": "Viennese Waltz",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAD0TsgEUYcv4qbB8I0H9uICRW9lI/",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/49p9dNmW0dQxL6AuVnbcOO/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:49p9dNmW0dQxL6AuVnbcOO"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Slow Foxtrot songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0mgTNYRn80cSXlqYw4f9Ul"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0mgTNYRn80cSXlqYw4f9Ul",
+            "id": "0mgTNYRn80cSXlqYw4f9Ul",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0274ee9b4f0958b872159b9b82ab67616d00001e02b19cb81319fbfd9ed54baeaeab67616d00001e02cd067691b26836652ac851beab67616d00001e02d7720a6a8b713b833313f396",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0274ee9b4f0958b872159b9b82ab67616d00001e02b19cb81319fbfd9ed54baeaeab67616d00001e02cd067691b26836652ac851beab67616d00001e02d7720a6a8b713b833313f396",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0274ee9b4f0958b872159b9b82ab67616d00001e02b19cb81319fbfd9ed54baeaeab67616d00001e02cd067691b26836652ac851beab67616d00001e02d7720a6a8b713b833313f396",
+                    "width": 60
+                }
+            ],
+            "name": "Slow Foxtrot",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADtArr8324IH+/vrqwLG+FsSvjx1k",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0mgTNYRn80cSXlqYw4f9Ul/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0mgTNYRn80cSXlqYw4f9Ul"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Quickstep songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0WrG1OG1IKGS1HGFSe35Xd"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0WrG1OG1IKGS1HGFSe35Xd",
+            "id": "0WrG1OG1IKGS1HGFSe35Xd",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84bdc76a570ee57b2f2753d0ff",
+                    "width": null
+                }
+            ],
+            "name": "Quickstep",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAB8ADH5yWTOOntjj4YOtQKNtnFfiz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0WrG1OG1IKGS1HGFSe35Xd/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0WrG1OG1IKGS1HGFSe35Xd"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Cha Cha songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3nEvtNSXPnGImEP320Slw1"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3nEvtNSXPnGImEP320Slw1",
+            "id": "3nEvtNSXPnGImEP320Slw1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02427f8620c555ad3da3f50629ab67616d00001e0247eb3ea5a92904c19e102e54ab67616d00001e025c34d7a87663652675cf3264ab67616d00001e025ffffefb4343759b63f72598",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02427f8620c555ad3da3f50629ab67616d00001e0247eb3ea5a92904c19e102e54ab67616d00001e025c34d7a87663652675cf3264ab67616d00001e025ffffefb4343759b63f72598",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02427f8620c555ad3da3f50629ab67616d00001e0247eb3ea5a92904c19e102e54ab67616d00001e025c34d7a87663652675cf3264ab67616d00001e025ffffefb4343759b63f72598",
+                    "width": 60
+                }
+            ],
+            "name": "Cha Cha",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAD8YvCR+WocWzCA/V7n0G0UTW7ZZy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3nEvtNSXPnGImEP320Slw1/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3nEvtNSXPnGImEP320Slw1"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Rumba songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/23xI0oOuikz7R8jzU7bE2g"
+            },
+            "href": "https://api.spotify.com/v1/playlists/23xI0oOuikz7R8jzU7bE2g",
+            "id": "23xI0oOuikz7R8jzU7bE2g",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02653b110d9560eb1656f4c583ab67616d00001e026f797e607164ef94ab773398ab67616d00001e02c6aebd89b2dcda3348649633ab67616d00001e02e6095c382c2853667c1623eb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02653b110d9560eb1656f4c583ab67616d00001e026f797e607164ef94ab773398ab67616d00001e02c6aebd89b2dcda3348649633ab67616d00001e02e6095c382c2853667c1623eb",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02653b110d9560eb1656f4c583ab67616d00001e026f797e607164ef94ab773398ab67616d00001e02c6aebd89b2dcda3348649633ab67616d00001e02e6095c382c2853667c1623eb",
+                    "width": 60
+                }
+            ],
+            "name": "Rumba",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAENMx3JXyfchqWtRLO3smS/KqFXI/",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/23xI0oOuikz7R8jzU7bE2g/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:23xI0oOuikz7R8jzU7bE2g"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Paso Doble songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1FbFmqJtGEQiFME2Ls2Zqj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1FbFmqJtGEQiFME2Ls2Zqj",
+            "id": "1FbFmqJtGEQiFME2Ls2Zqj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021f7077ae1018b5fbab08dfa8ab67616d00001e0242972347cf8fd0991bbd3997ab67616d00001e025a335126b1854bd315d1fd4fab67616d00001e028bda4ac5c2e14934f2f19275",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021f7077ae1018b5fbab08dfa8ab67616d00001e0242972347cf8fd0991bbd3997ab67616d00001e025a335126b1854bd315d1fd4fab67616d00001e028bda4ac5c2e14934f2f19275",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021f7077ae1018b5fbab08dfa8ab67616d00001e0242972347cf8fd0991bbd3997ab67616d00001e025a335126b1854bd315d1fd4fab67616d00001e028bda4ac5c2e14934f2f19275",
+                    "width": 60
+                }
+            ],
+            "name": "Paso Doble",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAD2URxBxhg4J8R+PswQ/7diq7/FbX",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1FbFmqJtGEQiFME2Ls2Zqj/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1FbFmqJtGEQiFME2Ls2Zqj"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Salsa songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3jiX57PCH2jKZvJXL0KIqe"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3jiX57PCH2jKZvJXL0KIqe",
+            "id": "3jiX57PCH2jKZvJXL0KIqe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0221be16e998effa9f1f4b63a9ab67616d00001e028961025e4042eb36bd54d626ab67616d00001e02b8f638f9193080f2cea3c951ab67616d00001e02c41cb5394fc069aff8cf7075",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0221be16e998effa9f1f4b63a9ab67616d00001e028961025e4042eb36bd54d626ab67616d00001e02b8f638f9193080f2cea3c951ab67616d00001e02c41cb5394fc069aff8cf7075",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0221be16e998effa9f1f4b63a9ab67616d00001e028961025e4042eb36bd54d626ab67616d00001e02b8f638f9193080f2cea3c951ab67616d00001e02c41cb5394fc069aff8cf7075",
+                    "width": 60
+                }
+            ],
+            "name": "Salsa",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAEIGwyRSzt6LC3j9kZQPWNLdOmiEq",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3jiX57PCH2jKZvJXL0KIqe/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3jiX57PCH2jKZvJXL0KIqe"
+        },
+        {
+            "collaborative": false,
+            "description": "100 most popular Samba songs from music4dance.net",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6RVeq79nHWxK8Tw1071uiK"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6RVeq79nHWxK8Tw1071uiK",
+            "id": "6RVeq79nHWxK8Tw1071uiK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0227ddd747545c0d0cfe7595faab67616d00001e029015cb1108929d137daeaa4dab67616d00001e02c98c02863cc1238f5e6b66dbab67616d00001e02e788e87fb340b0220b1591b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0227ddd747545c0d0cfe7595faab67616d00001e029015cb1108929d137daeaa4dab67616d00001e02c98c02863cc1238f5e6b66dbab67616d00001e02e788e87fb340b0220b1591b1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0227ddd747545c0d0cfe7595faab67616d00001e029015cb1108929d137daeaa4dab67616d00001e02c98c02863cc1238f5e6b66dbab67616d00001e02e788e87fb340b0220b1591b1",
+                    "width": 60
+                }
+            ],
+            "name": "Samba",
+            "owner": {
+                "display_name": "music4dance",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ebo1rk39vp51kkyjps45eobph"
+                },
+                "href": "https://api.spotify.com/v1/users/ebo1rk39vp51kkyjps45eobph",
+                "id": "ebo1rk39vp51kkyjps45eobph",
+                "type": "user",
+                "uri": "spotify:user:ebo1rk39vp51kkyjps45eobph"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADwLXrFmhK+RHsgUcbaksv92y0fvv",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6RVeq79nHWxK8Tw1071uiK/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6RVeq79nHWxK8Tw1071uiK"
+        },
+        {
+            "collaborative": false,
+            "description": "Zyzz Workout. <a href=\"https://open.spotify.com/playlist/7jxyoy8iwcpMLMRaTHiGjc\">Click here the for best Zyzz Hardstyle Songs.</a>",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/766wQ733vRmpmKqIU5fyvR"
+            },
+            "href": "https://api.spotify.com/v1/playlists/766wQ733vRmpmKqIU5fyvR",
+            "id": "766wQ733vRmpmKqIU5fyvR",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a585a60011078bdfadd59bac",
+                    "width": null
+                }
+            ],
+            "name": "Gym Hardstyle 2024 \ud83d\udcaa",
+            "owner": {
+                "display_name": "Otaku",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/csc67a42op18yam7xfklzukui"
+                },
+                "href": "https://api.spotify.com/v1/users/csc67a42op18yam7xfklzukui",
+                "id": "csc67a42op18yam7xfklzukui",
+                "type": "user",
+                "uri": "spotify:user:csc67a42op18yam7xfklzukui"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAANEMN3c5Jxy3Uu4urFY37SIU9a1cri",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/766wQ733vRmpmKqIU5fyvR/tracks",
+                "total": 129
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:766wQ733vRmpmKqIU5fyvR"
+        },
+        {
+            "collaborative": false,
+            "description": "Spotify Wrapped presents the songs you loved this year.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
+            "id": "37i9dQZF1Fa1IIVtEpGUcU",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2023",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "ZVPI2AAAAAD0+Af8jvnvW5Rlb9UA+FT5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0pTyVW8ihaNVD6oomKhQTv"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0pTyVW8ihaNVD6oomKhQTv",
+            "id": "0pTyVW8ihaNVD6oomKhQTv",
+            "images": null,
+            "name": "TB24",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAGzVl8m0af9z5C6CC7H+Equs/1bpq",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0pTyVW8ihaNVD6oomKhQTv/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0pTyVW8ihaNVD6oomKhQTv"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3hiNQ0U23pMABgrTtIVcdU"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3hiNQ0U23pMABgrTtIVcdU",
+            "id": "3hiNQ0U23pMABgrTtIVcdU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02119cb56f073efd326643dcfeab67616d00001e026127fae5e1ac53d69b95210cab67616d00001e02bb3c162ddba09bfba12199eaab67616d00001e02ef9ad61e2a4f15606fd4ab15",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02119cb56f073efd326643dcfeab67616d00001e026127fae5e1ac53d69b95210cab67616d00001e02bb3c162ddba09bfba12199eaab67616d00001e02ef9ad61e2a4f15606fd4ab15",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02119cb56f073efd326643dcfeab67616d00001e026127fae5e1ac53d69b95210cab67616d00001e02bb3c162ddba09bfba12199eaab67616d00001e02ef9ad61e2a4f15606fd4ab15",
+                    "width": 60
+                }
+            ],
+            "name": "Discofox  Modern",
+            "owner": {
+                "display_name": "Lara Kostorz",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hz955s837kdjwhixk9f2zqzh9"
+                },
+                "href": "https://api.spotify.com/v1/users/hz955s837kdjwhixk9f2zqzh9",
+                "id": "hz955s837kdjwhixk9f2zqzh9",
+                "type": "user",
+                "uri": "spotify:user:hz955s837kdjwhixk9f2zqzh9"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAD1e2iRlNGFancufiFOGmbP7xFmW7g",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3hiNQ0U23pMABgrTtIVcdU/tracks",
+                "total": 471
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3hiNQ0U23pMABgrTtIVcdU"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6fRp6xKJBp3VYiYYNIQAW0"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6fRp6xKJBp3VYiYYNIQAW0",
+            "id": "6fRp6xKJBp3VYiYYNIQAW0",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844b0dbe3ed2ae3de47d7146cc",
+                    "width": null
+                }
+            ],
+            "name": "Partzy ",
+            "owner": {
+                "display_name": "DaPfu",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/j03szdfqkyrpa7sgxhppfmkae"
+                },
+                "href": "https://api.spotify.com/v1/users/j03szdfqkyrpa7sgxhppfmkae",
+                "id": "j03szdfqkyrpa7sgxhppfmkae",
+                "type": "user",
+                "uri": "spotify:user:j03szdfqkyrpa7sgxhppfmkae"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADCJflZPlL0E8VInstxEL3tqWzXiY",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6fRp6xKJBp3VYiYYNIQAW0/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6fRp6xKJBp3VYiYYNIQAW0"
+        }
+    ]
+}

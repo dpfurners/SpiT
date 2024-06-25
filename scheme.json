@@ -1,0 +1,162 @@
+{
+  "auflegen": {
+    "extended": {
+      "chill-love": {
+        "spotify": "",
+        "itunes": "Chill&Love"
+      },
+      "rnb": {
+        "spotify": "",
+        "itunes": "R&B"
+      },
+      "vibe": {
+        "spotify": "",
+        "itunes": "Vibe"
+      },
+      "techno": {
+        "spotify": "",
+        "itunes": "Techno"
+      },
+      "pop": {
+        "spotify": "17mtFTRRMUx13L6L5Th8Tp",
+        "itunes": "Pop"
+      },
+      "house": {
+        "spotify": "3GnDKftTYyEwoR3bhEVVuS",
+        "itunes": "House"
+      },
+      "hiphop": {
+        "spotify": "",
+        "itunes": "HipHop"
+      },
+      "dnb": {
+        "spotify": "",
+        "itunes": "D&B"
+      },
+      "german": {
+        "pop_g": {
+          "spotify": "",
+            "itunes": "Pop_g"
+        },
+        "rap_g": {
+          "spotify": "",
+            "itunes": "Rap_g"
+        },
+        "chill_g": {
+          "spotify": "",
+            "itunes": "Chill_g"
+        },
+        "hiphop_g": {
+          "spotify": "",
+            "itunes": "HipHop_g"
+        }
+      }
+    },
+    "normal": {
+      "chill-love-": {
+        "spotify": "5QE1FeGnFIlZP6vZFiTOth",
+        "itunes": "Chill&Love-"
+      },
+      "rnb-": {
+        "spotify": "2UbXcSPFlBMu7zBEdaRjOg",
+        "itunes": "R&B-"
+      },
+      "vibe-": {
+        "spotify": "3YIPmbeZIZ4NZoiBuFJHhB",
+        "itunes": "Vibe-"
+      },
+      "techno-": {
+        "spotify": "5viG5wmHFD5e9aljHBvCE5",
+        "itunes": "Techno-"
+      },
+      "pop-": {
+        "spotify": "72RosKXcs3StMlmSNaYRvq",
+        "itunes": "Pop-"
+      },
+      "house-": {
+        "spotify": "7lvXc3Lv4MKgs2OoNRWtae",
+        "itunes": "House-"
+      },
+      "hiphop-": {
+        "spotify": "5KqOamNt0yfb9PyfGgTNUm",
+        "itunes": "HipHop-"
+      },
+      "dnb-": {
+        "spotify": "4XMRXDD1rc1Pb7eoD7RXj0",
+        "itunes": "D&B-"
+      },
+      "german": {
+        "pop-g": {
+          "spotify": "4Do9dewWzIXEme9zGRWLw0",
+            "itunes": "Pop-g"
+        },
+        "rap-g": {
+          "spotify": "4cXK9xi8qNxjqzA2uogfSz",
+            "itunes": "Rap-g"
+        },
+        "chill-g": {
+          "spotify": "04RV4D8MsWVpdrFwhIzO0r",
+            "itunes": "Chill-g"
+        },
+        "hiphop-g": {
+          "spotify": "07awVwc6EgCBHXRgGKpvds",
+            "itunes": "HipHop-g"
+        }
+      }
+    }
+  },
+  "tanzen": {
+    "all": {
+      "slow_waltz": {
+        "spotify": "1f7FdluftB6scihHNwoYIk",
+        "itunes": "01 SW SlowWaltz"
+      },
+      "tango": {
+        "spotify": "5YOa4iPnYf1Rrb6wNjTLVT",
+        "itunes": "02 TG Tango"
+      },
+      "viennese_waltz": {
+        "spotify": "73CD3ACpvTjtkzxCfxy822",
+        "itunes": "03 VW VienneseWaltz"
+      },
+      "quickstep": {
+        "spotify": "5ADkTG6XGRB6Ln2nr9fegr",
+        "itunes": "04 QS Quickstep"
+      },
+      "samba": {
+        "spotify": "45dcSJPThBlJduYcBzyxNO",
+        "itunes": "05 SB Samba"
+      },
+      "cha_cha": {
+        "spotify": "5ZG5g2czhOHHDlmvaulvQr",
+        "itunes": "06 CC ChaCha"
+      },
+      "rumba": {
+        "spotify": "5SY0ZqhLbPUXSreRWag07j",
+        "itunes": "07 RB Rumba"
+      },
+      "jive": {
+        "spotify": "1oeASS4am4DnfwDsJlnCLG",
+        "itunes": "08 JV Jive"
+      }
+    },
+    "special": {
+      "slow_fox": {
+        "spotify": "0CCwDqP9mcwIM6L6V71tgH",
+        "itunes": "01 SF SlowFox"
+      },
+      "paso_doble": {
+        "spotify": "1cBSJKvwE7TMRecoBziXXS",
+        "itunes": "04 PD PasoDoble"
+      },
+      "salsa": {
+        "spotify": "074gkweM056D1xOJXIq4pZ",
+        "itunes": "02 SA Salsa"
+      },
+      "bachata": {
+        "spotify": "4WEJSTvYtfFkMtIjJBpVEc",
+        "itunes": "03 BA Bachata"
+      }
+    }
+  }
+}
