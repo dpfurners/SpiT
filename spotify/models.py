@@ -127,7 +127,6 @@ class SLibrary:
     def parse_library(cls, client_id, client_secret, scopes=None):
         lib = cls(client_id, client_secret, scopes)
         playlists = lib._get_authenticated_user_playlists()
-        print(len(playlists))
         for playlist in playlists:
             lib.playlists.append(SPlaylist.from_playlists(playlist, lib.sp))
         return lib
