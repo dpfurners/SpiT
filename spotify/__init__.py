@@ -1,3 +1,3 @@
-from .models import STrack, SPlaylist
+from .models import STrack, SPlaylist, SLibrary
 
-__all__ = ['STrack', 'SPlaylist']
+__all__ = ['STrack', 'SPlaylist', 'SLibrary']

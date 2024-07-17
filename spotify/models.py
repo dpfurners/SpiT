@@ -34,6 +34,18 @@ class STrack(SpotifyObject):
     added_at: datetime
     release_date: date
 
+    def __eq__(self, other):
+        if isinstance(other, STrack):
+            if other.sid == self.sid:
+                return True
+        if isinstance(other, str):
+            if len(other) == len(self.sid):
+                if other == self.sid:
+                    return True
+            elif other == self.name:
+                return True
+        return False
+
     @property
     def url(self):
         return f"https://open.spotify.com/track/{self.sid}"
@@ -77,6 +89,18 @@ class SPlaylist(SpotifyObject):
     itunes: bool = False
     reference: "IPlaylist" = None
 
+    def __eq__(self, other):
+        if isinstance(other, SPlaylist):
+            if other.sid == self.sid:
+                return True
+        if isinstance(other, str):
+            if len(other) == len(self.sid):
+                if other == self.sid:
+                    return True
+            elif other == self.name:
+                return True
+        return False
+
     @property
     def url(self):
         return f"https://open.spotify.com/playlist/{self.sid}"
@@ -102,6 +126,16 @@ class SLibrary:
         self._auth = self.authenticate(client_id, client_secret, scopes)
         self.sp = spotipy.Spotify(auth_manager=self._auth)
         self.playlists = []
+
+    def find_item(self, criteria: str) -> typing.Optional[SPlaylist]:
+        for playlist in self.playlists:
+            if len(criteria) == len(playlist.sid):
+                if playlist.sid == criteria:
+                    return playlist
+            elif isinstance(criteria, str):
+                if playlist.name == criteria:
+                    return playlist
+        return None
 
     @staticmethod
     def authenticate(client_id, client_secret, scopes=None):
@@ -130,7 +164,6 @@ class SLibrary:
         for playlist in playlists:
             lib.playlists.append(SPlaylist.from_playlists(playlist, lib.sp))
         return lib
-
 
 if __name__ == '__main__':
     library = SLibrary.parse_library(client_id='fdca1d7dfca94aff84921fb9166eaa2f',
